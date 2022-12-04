@@ -98,7 +98,7 @@ fun main() {
                 content {
                     """
                     ## DevFest 的投影片還沒做，就用 Kotlin 做一個吧
-                    ### GDG Taichung DevFest 2022 
+                    ### GDG ChangHua DevFest 2022 
                     """
                 }
             }
