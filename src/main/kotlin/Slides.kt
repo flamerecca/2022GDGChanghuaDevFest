@@ -154,7 +154,7 @@ fun main() {
                 markdownSlide {
                     content {
                         """
-                        ## GDG Changhua
+                        ## GDG ChangHua
 
                         ：這個題目很好！
                         """
@@ -163,7 +163,7 @@ fun main() {
                 markdownSlide {
                     content {
                         """
-                        ## GDG Changhua
+                        ## GDG ChangHua
 
                         ：也來我們這邊講這個題目吧！
                         """
