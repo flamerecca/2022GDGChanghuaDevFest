@@ -154,6 +154,24 @@ fun main() {
                 markdownSlide {
                     content {
                         """
+                        ## GDG Changhua
+
+                        ：這個題目很好！
+                        """
+                    }
+                }
+                markdownSlide {
+                    content {
+                        """
+                        ## GDG Changhua
+
+                        ：也來我們這邊講這個題目吧！
+                        """
+                    }
+                }
+                markdownSlide {
+                    content {
+                        """
                         所以我就在這邊了
                         """
                     }
@@ -723,21 +741,6 @@ fun main() {
                         """            
                            ## 宣告式的作法
                            ## 更適合投影片的結構
-                        """
-                    }
-                }
-            }
-            verticalSlides {
-                markdownSlide {
-                    content {
-                        """            
-                        ## Live Demo
-                        
-                        等一下的 Code Lab
-                        
-                        會和各位一起製作投影片
-                        
-                        GDG Taichung DevFest 2022
                         """
                     }
                 }
